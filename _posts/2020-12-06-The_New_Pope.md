@@ -1,7 +1,7 @@
 ---
 author: jmargar217
 title: The New Pope
-featimg: the_new_pope_jpg
+featimg: the_new_pope.jpg
 yt-video-id: <iframe src="https://www.youtube.com/watch?v=K3rYwTfzDzQ" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 tags: [drama]
 category: [SERIES]
