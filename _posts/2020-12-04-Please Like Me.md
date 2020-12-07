@@ -3,14 +3,16 @@ author: Laura Moreno Vélez
 type: Serie
 yt-video-id: i_UnMGk_qwI
 homedisplay: iframe
-title: Please like me
-tags: [serie]
+title: Please Like Me
+tags: [drama, comedia]
 category: [Serie]
 layout: post-classic-sidebar-left
 ---
 Después de terminar la cuarta temporada ayer mismo, me veo en la obligación de hacer una crítica de esta serie; empezó suave en mí y ha acabado convirtiéndose en mi top actual en emisión. Sí, habrá quinta temporada. ¡BIEN!
 
 ¿No sabes de qué va?
+
+<img class="featimg" src="../img/the_mandalorian.jpg" alt="PleaseLikeMe.jpg">
 
 La premisa puede parecer típica, facilona e incluso superficial a primera vista, pero en realidad está bien escrita y llena de verdad. Josh acaba de cumplir 21 años y ese mismo día le abandona la novia, alegando que le deja porque cree que es gay y no lo sabe. Ese mismo día conoce a un atractivo chico que se siente atraído por él, pero Josh es tan inseguro que no puede creerse que se interese por él, por lo que autoboicotea toda posibilidad de que las cosas salgan bien. También resulta interesante la idea de esos padres, que cuando uno va creciendo, dejan de ser héroes para pasar a ser unos personas normales que no siempre tienen idea de lo que están haciendo.
 
