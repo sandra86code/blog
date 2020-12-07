@@ -20,4 +20,4 @@ La serie de anime japonesa está basada en el manga homónimo del género shonen
 
 
 
-<img class="featimg" src="../img/ataqueALosTitanes.JPG" alt="ataqueALosTitanes.JPG" width="200px" height="200px">
+<img class="featimg" src="../img/ataqueALosTitanes.JPG" alt="ataqueALosTitanes.JPG">
