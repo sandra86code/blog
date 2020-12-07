@@ -1,20 +1,15 @@
 ---
 author: Laura Moreno
 layout: post-full
-type: series
-yt-video-id: E802ZnXbnFY
+type: youtube
+yt-video-id: ouoNWnBDBeU
 homedisplay: iframe
 title: Ataque a los titanes
 tags: [accion]
 category: [serie]
 ---
-This youtube video uses the iframe instead of the thumbnail image on the index pages.
 
-For a YouTube video, no embedding code is required, it all works through the video ID.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ouoNWnBDBeU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ATAQUE A LOS TITANES
 
 'Ataque a los Titanes' se ambienta hace varios cientos de años cuando los humanos fueron casi exterminados por los titanes. Los Titanes generalmente son de varios metros de altura, parece que no tienen inteligencia y devoran a los seres humanos, y lo peor de todo es que parece que lo hagan por placer y no como una fuente de alimento.
 
@@ -22,4 +17,7 @@ Un pequeño porcentaje de la humanidad consigue sobrevivir amurallando a sí mis
 
 La serie de anime japonesa está basada en el manga homónimo del género shonen de Hajime Isayama y está producida por Wit Studio y dirigida por Tesuro Araki.
 
-<img class="featimg" src="../img/ataqueALosTitanes.JPG" alt="ataqueALosTitanes.JPG">
+
+
+
+<img class="featimg" src="../img/ataqueALosTitanes.JPG" alt="ataqueALosTitanes.JPG" width="200px" height="200px">
