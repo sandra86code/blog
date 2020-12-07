@@ -18,6 +18,4 @@ Un pequeño porcentaje de la humanidad consigue sobrevivir amurallando a sí mis
 La serie de anime japonesa está basada en el manga homónimo del género shonen de Hajime Isayama y está producida por Wit Studio y dirigida por Tesuro Araki.
 
 
-
-
 <img class="featimg" src="../img/ataqueALosTitanes.JPG" alt="ataqueALosTitanes.JPG">
