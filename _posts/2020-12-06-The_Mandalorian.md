@@ -1,7 +1,7 @@
 ---
 author: jmargar217
 type: youtube
-yt-video-id: https://youtu.be/aOC8E8z_if
+yt-video-id: aOC8E8z_ifw
 homedisplay: iframe
 title: The Mandalorian
 tags: [ciencia ficción]

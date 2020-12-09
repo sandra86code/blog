@@ -1,7 +1,7 @@
 ---
 author: jmargar217
 type: youtube
-yt-video-id: https://youtu.be/K3rYwTfzDzQ
+yt-video-id: K3rYwTfzDzQ
 homedisplay: iframe
 title: The New Pope
 tags: [drama]
