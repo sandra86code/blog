@@ -1,4 +1,4 @@
-----
+---
 author: Sandra Ruiz
 layout: post-full
 type: youtube
@@ -7,6 +7,7 @@ homedisplay: iframe
 title: Rocco Schiavone
 tags: [policíaco]
 category: [serie]
+
 ---
 
 Año: 2016
