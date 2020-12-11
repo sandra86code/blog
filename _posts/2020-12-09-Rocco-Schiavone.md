@@ -6,7 +6,7 @@ yt-video-id: tgIHKOtFzF0
 homedisplay: iframe
 title: Rocco Schiavone
 tags: [policíaco]
-category: [serie]
+category: [SERIES]
 
 ---
 
