@@ -1,81 +1,12 @@
 ---
 layout: page-classic-sidebar-right
-title: Typography
+title: Seriefil@s
 ---
-###### headings
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
+# Acerca de Jekyll
 <br>
 
-###### text
-
-some **bold** and _italic_ text and a [link](/{{ site.baseurl | replace: '//', '/' }}) that brings you back to the home page and a paragraph of lorem ipsum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis explicabo nam commodi eos cumque possimus error cupiditate iste doloribus aut porro, beatae impedit, corporis sapiente laudantium id voluptatem sit distinctio sed sequi accusantium molestias, facilis sunt eum? Voluptates sit numquam, recusandae deleniti illo, nisi maxime sequi eligendi ad veniam quidem molestias aut assumenda doloremque delectus modi animi. Sint asperiores minus ducimus aut aliquid eos pariatur, id doloribus rem natus quam, adipisci reprehenderit? Architecto quis dignissimos porro pariatur impedit at odio illo ab sunt obcaecati eius consectetur distinctio, eligendi fuga sint fugit aspernatur ratione blanditiis veniam voluptates? Delectus magni optio voluptate odit incidunt nobis officiis mollitia fuga libero, reprehenderit fugit. 
-
-Hic eos earum ipsum, reprehenderit, ut facere officiis vitae voluptas sunt atque quisquam, nobis deleniti sapiente laudantium quia libero nulla rerum beatae mollitia iusto similique! Nesciunt illo, harum facilis aperiam commodi. Amet perferendis voluptatem, itaque laboriosam, eos minima vero tempore at!
-
+Jekyll es un generador de sitios web estáticos. Lo que quiere decir que se pueden “crear” sitios web completos (no dinámicos) a partir de texto, que en el caso de Jekyll se escribe en MarkDown(.md), lenguaje de marcado que también es muy común en GitHub, por ejemplo, dado que los ficheros README de esta plataforma se escriben en este lenguaje
 <br>
-
-###### blockquote 
-
-> This is in a blockquote
-  and a second line
-
 <br>
+Usar un generador de sitios web estáticos tiene unas ciertas ventajas, como la rápida ejecución o la gran mantenibilidad que proporciona, pudiéndonos centrarnos más en la redacción del texto. Por el contrario, también tiene algunos inconvenientes, como que no podemos usar un lenguaje de servidor en las webs que creemos, como PHP o NodeJS; ya que los sitios web estáticos se ejecutan en el ordenador del usuario que accede a la página, por lo que los lenguajes con los que complementemos al texto deben ser JavaScript, HTML y/o CSS.
 
-#### footnotes[^1]
-[^1]: Footnote: this is a footnote!
-
-Footnotes are also part of markdown features. So easy to create!
-
-<br>
-
-###### lists
-1. this
-1. is
-1. an
-1. ordered
-1. list
-
-* and
-* this
-* an
-* unordered
-* list
-
-<br>
-
-###### code
-You can show inline code (a link in markdown: `[linktext](url)`)
-
-or a whole block
-
-``` scss
-blockquote{
-    margin-left: 5%;
-    padding: 10px;
-    box-sizing: border-box;
-    border-left: $line;
-}
-```
-<br>
-
-#### tables
-
-| table heading 1  |  table heading 2  |  table heading 3  |
-|---|---|---|
-| row 1 content 1  | row 1 content 2  | row 1 content 3  |
-| row 2 content 1  | row 2 content 2  | row 2 content 3  |
-| row 3 content 1  | row 3 content 2  | row 3 content 3  |
