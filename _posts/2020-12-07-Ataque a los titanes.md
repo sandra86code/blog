@@ -6,7 +6,7 @@ yt-video-id: ouoNWnBDBeU
 homedisplay: iframe
 title: Ataque a los titanes
 tags: [accion]
-category: [serie]
+category: [SERIES]
 ---
 
 ATAQUE A LOS TITANES
