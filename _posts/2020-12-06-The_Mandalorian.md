@@ -5,7 +5,7 @@ yt-video-id: aOC8E8z_ifw
 homedisplay: iframe
 title: The Mandalorian
 tags: [ciencia ficción]
-category: [Serie]
+category: [SERIES]
 layout: post-classic-sidebar-left
 
 ---
