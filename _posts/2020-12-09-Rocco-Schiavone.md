@@ -5,11 +5,7 @@ type: youtube
 yt-video-id: tgIHKOtFzF0
 homedisplay: iframe
 title: Rocco Schiavone
-<<<<<<< HEAD
-tags: [policíaco]
-=======
 tags: [policiaco]
->>>>>>> sandra
 category: [SERIES]
 
 ---
