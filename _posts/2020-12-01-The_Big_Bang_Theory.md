@@ -7,9 +7,14 @@ title: The Big Bang Theory
 layout: post-full
 
 ---
- 
-
-Trece  años han pasado desde que allá por el 2007 se estrenase The Big Bang Theory, una serie un tanto peculiar convertida hoy en un fenómeno fan y, porqué no decirlo, una serie de culto.
+<br>
+Año: 2007
+Duración: 20 min.
+País: Estados Unidos
+Reparto: Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg, Kunal Nayyar, Melissa Rauch, Mayim Bialik
+<br>
+<br>
+Trece años han pasado desde que allá por el 2007 se estrenase The Big Bang Theory, una serie un tanto peculiar convertida hoy en un fenómeno fan y, porqué no decirlo, una serie de culto.
 
 Tras ocho temporadas en antena y una larga lista de nominaciones y premios ganados ininterrumpidamente de 2009 a 2014 (por nombrar algunos, varios galardones a la Mejor Comedia de Televisión y otros tantos al Mejor Actor Protagonista de una serie de comedia para Jim Parsons), la serie no ha perdido un ápice de la chispa y nivel de frikismo con el que comenzó. Capítulo a capítulo hace referencia a símbolos de la cultura friki popular: películas y series como Star Wars, Star Trek, Firefly, videojuegos como Halo, Age of Conan, las míticas camisetas de Sheldon del superhéroe Flash o la cantidad de veces que hemos visto a sus protagonistas disfrazados. Por no hablar de cameos de la talla de Stan Lee, Stephen Hawking, Leonard Nimoy, Nathan Fillion o Charlie Seen. Y no son sólo sus guiños al frikismo lo que la convierte en una serie de éxito, sino el cariño que hemos cogido a sus personajes durante estos años.
 
