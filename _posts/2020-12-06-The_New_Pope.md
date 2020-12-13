@@ -4,9 +4,7 @@ type: youtube
 yt-video-id: K3rYwTfzDzQ
 homedisplay: iframe
 title: The New Pope
-tags: [drama]
-category: [SERIES]
-layout: post-classic-sidebar-left
+layout: post-full
 
 ---
 <br>   

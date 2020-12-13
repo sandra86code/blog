@@ -4,8 +4,8 @@ type: youtube
 yt-video-id: gs_A7KGQb_g
 homedisplay: iframe
 title: The Big Bang Theory
-tags: [comedia]
-category: [SERIES]
+layout: post-full
+
 ---
  
 

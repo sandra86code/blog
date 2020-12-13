@@ -4,9 +4,8 @@ type: youtube
 yt-video-id: i_UnMGk_qwI
 homedisplay: iframe
 title: Please Like Me
-tags: [drama, comedia]
-category: [SERIES]
-layout: post-classic-sidebar-left
+layout: post-full
+
 ---
 Después de terminar la cuarta temporada ayer mismo, me veo en la obligación de hacer una crítica de esta serie; empezó suave en mí y ha acabado convirtiéndose en mi top actual en emisión. Sí, habrá quinta temporada. ¡BIEN!
 

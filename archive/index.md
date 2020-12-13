@@ -1,5 +1,5 @@
 ---
-layout: page-material-sidebar-right
+layout: post-full
 title: Archivo
 ---
 #### Por mes
