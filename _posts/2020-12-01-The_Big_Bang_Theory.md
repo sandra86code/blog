@@ -8,6 +8,9 @@ layout: post-full
 
 ---
  
+Año: 2007
+Duración: 20 min.
+País: Estados Unidos
 
 Trece  años han pasado desde que allá por el 2007 se estrenase The Big Bang Theory, una serie un tanto peculiar convertida hoy en un fenómeno fan y, porqué no decirlo, una serie de culto.
 
