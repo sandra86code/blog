@@ -1,6 +1,6 @@
 ---
-layout: page-classic-sidebar-right
 title: ¿Por qué hemos creado esta página?
+
 ---
 
 <br>

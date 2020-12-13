@@ -4,9 +4,6 @@ type: youtube
 yt-video-id: tgIHKOtFzF0
 homedisplay: iframe
 title: Rocco Schiavone
-tags: [policiaco]
-category: [SERIES]
-layout: post-classic-sidebar-left
 
 ---
 <br>   
