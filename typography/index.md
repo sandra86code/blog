@@ -1,5 +1,5 @@
 ---
-
+layout: post-full
 title: ¿Por qué hemos creado esta página?
 ---
 

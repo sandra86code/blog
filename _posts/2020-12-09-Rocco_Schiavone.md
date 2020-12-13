@@ -4,6 +4,7 @@ type: youtube
 yt-video-id: tgIHKOtFzF0
 homedisplay: iframe
 title: Rocco Schiavone
+layout: post-full
 
 ---
 <br>   
