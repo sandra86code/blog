@@ -1,6 +1,6 @@
 ---
-title: ¿Por qué hemos creado esta página?
 
+title: ¿Por qué hemos creado esta página?
 ---
 
 <br>
